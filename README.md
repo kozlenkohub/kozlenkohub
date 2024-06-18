@@ -1,10 +1,40 @@
 <h1 align="center">Hi 👋, I'm Nikita Kozlenko</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 
+<p align="center">
+  <img src="https://via.placeholder.com/150" alt="Nikita Kozlenko's Avatar" width="150" height="150" style="border-radius: 50%;"/>
+</p>
+
+<p align="center">I have a deep love for creating beautiful and functional web applications. My journey in web development started several years ago, and since then, I've continuously strived to improve my skills and stay updated with the latest technologies and trends in the industry.</p>
+
+<h3 align="left">Skills and Expertise:</h3>
+<ul>
+  <li>Proficient in HTML, CSS, and JavaScript</li>
+  <li>Experienced with modern frameworks like React and Redux</li>
+  <li>Skilled in using CSS preprocessors such as Sass and utility-first frameworks like Tailwind CSS</li>
+  <li>Knowledgeable in TypeScript for building robust and scalable applications</li>
+  <li>Hands-on experience with version control systems like Git</li>
+  <li>Capable of designing user interfaces using tools like Figma</li>
+  <li>Understanding of backend technologies like Node.js and MongoDB</li>
+</ul>
+
+<h3 align="left">Projects:</h3>
+<ul>
+  <li><strong>Project 1:</strong> <a href="https://github.com/username/project1" target="_blank">E-commerce Website</a> - A fully responsive online store built with React and Redux, featuring product listings, a shopping cart, and a secure checkout process.</li>
+  <li><strong>Project 2:</strong> <a href="https://github.com/username/project2" target="_blank">Personal Portfolio</a> - My personal website showcasing my skills, projects, and a blog section where I share my thoughts on web development.</li>
+  <li><strong>Project 3:</strong> <a href="https://github.com/username/project3" target="_blank">Task Management App</a> - A productivity tool to help users manage their tasks and deadlines, built with TypeScript and Tailwind CSS.</li>
+</ul>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/luvv.nikita" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikita.gasolina" height="60" width="80" />
+  </a>
+  <a href="https://linkedin.com/in/nikita-kozlenko" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="60" width="80" />
+  </a>
+  <a href="https://github.com/nikita-kozlenko" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="60" width="80" />
   </a>
 </p>
 
